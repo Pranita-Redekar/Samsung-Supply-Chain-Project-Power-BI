@@ -16,14 +16,14 @@ The analysis is performed using <b>Power BI</b> through interactive dashboards, 
 
 <h2>📂 Dataset</h2>
 <p>
-👉 <a href="ADD_DATASET_LINK_HERE" target="_blank">Download Dataset</a>
+👉 <a href="https://github.com/Pranita-Redekar/Samsung-Supply-Chain-Project-Power-BI/tree/main/Dataset">View / Download Dataset</a>
 </p>
 
 <hr>
 
-<h2>📊 Dashboard Access</h2>
+<h2>📊 Dashboard </h2>
 <p>
-👉 <a href="ADD_DASHBOARD_LINK_HERE" target="_blank">View / Download Dashboard</a>
+👉 <a href="https://github.com/Pranita-Redekar/Samsung-Supply-Chain-Project-Power-BI/tree/main/Dashboard">View / Download Dashboard</a>
 </p>
 
 <hr>
